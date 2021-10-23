@@ -1,0 +1,14 @@
+matcherUrl: "http://localhost:8080"
+templates:
+      - { name: "choose", path: "./templates/choose.png",  x: 0.6, y: 0.6, width: 0.40, height: 0.40, debug: true }
+      - { name: "unactive", path: "./templates/unactive.png",  x: 0.6, y: 0.6, width: 0.40, height: 0.40, debug: true }
+      - { name: "start", path: "./templates/start.png",  x: 0.8, y: 0.4, width: 0.2, height: 0.2, debug: true }
+      - { name: "turnReady", path: "./templates/turnReady.png",  x: 0.8, y: 0.4, width: 0.2, height: 0.2, debug: true }
+      - { name: "confirm", path: "./templates/confirm.png",  x: 0.3, y: 0.4, width: 0.25, height: 0.30, debug: true }
+      - { name: "action", path: "./templates/action.png",  x: 0.30, y: 0.45, width: 0.2, height: 0.15, debug: true }
+      - { name: "opponent", path: "./templates/opponent.png",  x: 0.35, y: 0.15, width: 0.35, height: 0.15, debug: true }
+      - { name: "take", path: "./templates/take.png",  x: 0.35, y: 0.40, width: 0.4, height: 0.55, debug: true }
+      - { name: "finish", path: "./templates/finish.png",  x: 0, y: 0, width: 1, height: 1, debug: true }
+      - { name: "red", path: "./templates/red.png",  x: 0.10, y: 0.10, width: 0.70, height: 0.55, debug: true }
+      - { name: "green", path: "./templates/green.png", x: 0.10, y: 0.10, width: 0.70, height: 0.55, debug: true }
+      - { name: "blue", path: "./templates/blue.png",  x: 0.10, y: 0.10, width: 0.70, height: 0.55, debug: true }
